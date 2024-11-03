@@ -34,7 +34,8 @@ Home Ownership Analysis (Tree Map): Examine the influence of home ownership on l
 Dashboard 3: Detailed Insights
 Purpose: This dashboard provides a deep dive into loan data, equipping users with comprehensive access to key metrics and loan details, thereby empowering informed decision-making.
 
-## Objective: The "Details Dashboard" serves as a user-friendly platform that enables in-depth analysis of the loan portfolio, enhancing our capacity to make informed lending decisions.
+## Objective: 
+The "Details Dashboard" serves as a user-friendly platform that enables in-depth analysis of the loan portfolio, enhancing our capacity to make informed lending decisions.
 
 ## Implementation Strategy:
 
